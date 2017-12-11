@@ -9,7 +9,7 @@
 
 ## 获取方法
 
-* 访问该项目中[`autopj`](https://github.com/WA-YI/zf_pj/blob/master/autopj)文件
+* 访问该项目中[`autopj`](https://github.com/WA-YI/zf_pj/blob/master/autopj.js)文件
 
 ## 使用方法
 
@@ -19,7 +19,7 @@
 <b>② 按`F12`键，在弹出栏目中，选择`控制台`<br></b>
 > Chrome内核选择`Console`，其他平台尚未测试
 
-<b>③ 复制[`autopj`](https://github.com/WA-YI/zf_pj/blob/master/autopj)中全部代码，粘贴入输入框，回车<br></b>
+<b>③ 复制[`autopj`](https://github.com/WA-YI/zf_pj/blob/master/autopj.js)中全部代码，粘贴入输入框，回车<br></b>
 <b>④ 等待代码执行，结束后自动完成评价</b>
 
 ## 注意事项
