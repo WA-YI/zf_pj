@@ -1,6 +1,6 @@
 var a = document.querySelector('iframe');
 
-var c = document.querySelectorAll("ul.nav>li.top")[3].querySelectorAll("ul.sub>li").length;
+var c = document.querySelectorAll("ul.nav>li.top")[2].querySelectorAll("ul.sub>li").length;
 
 status = false;
 
